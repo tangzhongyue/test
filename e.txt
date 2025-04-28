@@ -1,0 +1,6 @@
+#include "a.h"
+#include <iostream>
+using namespace std;
+a func1(){
+    b<<"endl"<<endl;
+}
